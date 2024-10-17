@@ -1,3 +1,4 @@
 # best-repo-ever
 
-# Like are you kidding me? This is a gold mine bra!
+<<<<<<< HEAD
+# I beg to differ bla! There are tones of wonderful repos out there
